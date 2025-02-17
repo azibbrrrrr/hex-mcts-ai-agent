@@ -1,0 +1,10 @@
+Game 1: Game over. 41 has won!
+        Total turns taken by 41: 25
+        Total turns taken by goodAgent: 24
+        Game 2: Game over. 41 has won!
+        Total turns taken by 41: 19
+        Total turns taken by goodAgent: 18
+        Game 3: Game over. 41 has won!
+        Total turns taken by 41: 0
+        Total turns taken by goodAgent: 0
+        
